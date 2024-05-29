@@ -1,4 +1,5 @@
 import React from 'react'
+import { HERO_CONTENT } from '../constants';
 import profilePic from '../assets/me.jpeg'
 import { motion } from "framer-motion"
 
@@ -36,9 +37,7 @@ function Hero() {
                         variants={container(1)}
                         initial='hidden'
                         animate='visible'
-                        className='my-2 max-w-xl py-6 font-light tracking-tighter'>I am a fullStack Developer, I use java Frameworks like SpringBoot for my backend Development 
-                            and ReactJs with tailwindcss for my frontend development. I love NoSQL 
-                            databases and MongoDb is one of my favourite database.
+                        className='my-2 max-w-xl py-6 font-light tracking-tighter'>{HERO_CONTENT}
                     </motion.p>
                 </div>
             </div>

@@ -1,4 +1,5 @@
 import aboutmepic from '../assets/nitesh.jpeg'
+import { ABOUT_TEXT } from '../constants'
 import React from 'react'
 import {motion } from 'framer-motion'
 
@@ -27,10 +28,7 @@ function AboutMe() {
             transition={{duration:0.5}}
             className='w-full lg:w-1/2'>
                 <div className='flex justify-center lg:justify-start'>
-                    <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications.
-                    I am a fresher but, I have worked with a variety of technologies, including React, java Spring as well as node.js and MongoDB. 
-                    My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. 
-                    I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies.
+                    <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>{ABOUT_TEXT}
                     </p>
                 </div>
             </motion.div>
