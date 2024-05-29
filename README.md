@@ -16,8 +16,8 @@ This project is a personal portfolio website showcasing my skills, projects, and
 
 MyPortfolio is a modern and responsive portfolio website built with React, Tailwind CSS, and Framer Motion. It features smooth animations, a clean and intuitive design, and integration with social media platforms. The portfolio highlights my projects, skills, and provides an easy way to get in touch with me.
 
-## Vercel Deployment Link
-- [Vercel](https://personal-portfolio-zeta-teal-50.vercel.app/)
+## Have a lookOn Link
+- [My-Portfolio](https://personal-portfolio-zeta-teal-50.vercel.app/)
 
 ### Built With
 
