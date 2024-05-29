@@ -76,5 +76,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 For questions or feedback, you can reach me at:
 
 - GitHub: [MIBGHOST](https://github.com/MIBGHOST)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: your-email@example.com
+- LinkedIn: [Nitesh Rai](https://www.linkedin.com/in/nitesh-rai-2a8284128/)
+- Email: 2201rainitesh@gmailcom
